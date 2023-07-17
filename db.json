@@ -1,0 +1,68 @@
+{
+  "user": [
+    {
+      "id": "admin",
+      "name": "Tahir",
+      "password": "Tahir@123",
+      "email": "tahir@gmail.com",
+      "gender": "male",
+      "role": "admin",
+      "isactive": true
+    },
+    {
+      "id": "admin",
+      "name": "Jawad",
+      "password": "Jawad@123",
+      "email": "Jawad@gmail.com",
+      "gender": "male",
+      "role": "",
+      "isactive": true
+    },
+    {
+      "id": "Aftab",
+      "name": "Alam",
+      "password": "Aftab@123",
+      "email": "aftab@arhpez.com",
+      "gender": "male",
+      "role": "admin",
+      "isactive": true
+    },
+    {
+      "id": "Waqas",
+      "name": "Ahmed",
+      "password": "Waqas@123",
+      "email": "waqas@arhpez.com",
+      "gender": "male",
+      "role": "",
+      "isactive": false
+    },
+    {
+      "id": "Sanad",
+      "name": "Hussain",
+      "password": "Sanad@123",
+      "email": "sanad@arhpez.com",
+      "gender": "male",
+      "role": "",
+      "isactive": false
+    },
+    {
+      "id": "Adil",
+      "name": "PTI",
+      "password": "Sanad@123",
+      "email": "adil@pti.com",
+      "gender": "male",
+      "role": "",
+      "isactive": false
+    }
+  ],
+  "Role": [
+    {
+      "code": "staff",
+      "name": "staff"
+    },
+    {
+      "code": "Quality",
+      "name": "Quality"
+    }
+  ]
+}
